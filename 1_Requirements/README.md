@@ -35,3 +35,21 @@ Then the LCD display should display the seat heating value provided by the passe
 ## How
 + By generating a variable heat
 # High level and low level Requirement
+
+# High level Requirement 
+|ID	  |Description                                                                                               |	 Category|	  Status   |
+|-----|----------------------------------------------------------------------------------------------------------|-----------|-------------|
+|HR01	|Sensor should give output(LED Turn on or Off)whether the person is seated or not in the vehicle           |  Automatic|	IMPLEMENTED|
+|HR02	|Temperature sensor should toggle the temperature	                                                         |  Automatic|	IMPLEMENTED|
+|HR03	|Temperature is beyond threshold then turn Off or on AC                                                    |  Manual	 |  IMPLEMENTED|  
+|HR04	|display Temperature Value on LCD Screen                                                                   |  Automatic|	IMPLEMENTED|
+|HR05	|Exit from the system when Vehicle is not moving	                                                         |  Automatic|	IMPLEMENTED|
+
+# Low level Requirement
+|ID  |Description		                                                            |Status      |
+|----|--------------------------------------------------------------------------|------------|
+|LR01|	Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1	| IMPLEMENTED|
+|LR02|	System will tell user that temperature is switching		                  | IMPLEMENTED|
+|LR03|  user have to turn on or off the vehicle AC		                          | IMPLEMENTED|
+|LR04|	System will display the temperature value inside the vehicle		        | IMPLEMENTED|
+|LR05|	System will stopped working once vehicle is Stopped		Not               | IMPLEMENTED|
