@@ -6,23 +6,27 @@ Vehicle seat heating or seat heating monitoring systems can generate mild heat i
 Then the LCD display should display the seat heating value provided by the passenger via the knob. Our project usually prefers European countries, 
 ,where the temperature is too low.
 ## Feature
+
 + The system uses Sensors to access the information about the paasenger is seated or not.
 + Each seat should have a nobe to control/monitor the range of heat.
 + A LCD display shows the temperature of Seat heater.
 + Low cost
 # SWOT analysis - Strength, Weakness, Opportunities and Threats
 ## Strengths
-+ Seats with individual heating systems.
-+ The temperature range can easily be changed.
-+ Easy to use. 
-+ Low cost and robust system.
+
++  Seats with individual heating systems.
++  The temperature range can easily be changed.
++  Easy to use. 
++  Low cost and robust system.
 ## weakness
-+ Usually recommended for countries with extreme cold temperatures.
-+ During this process, the engine needs to be on.
-+ The vehicle must have a greater number of sensors if it has a greater number of seats.
+
++  Usually recommended for countries with extreme cold temperatures.
++  During this process, the engine needs to be on.
++  The vehicle must have a greater number of sensors if it has a greater number of seats.
 ## Threats
-+ In high temperatures, there are fewer opportunities to use.
-+ The seat can't be turned on before there is someone sitting on it.
+
++  In high temperatures, there are fewer opportunities to use.
++  The seat can't be turned on before there is someone sitting on it.
 # 4W's AND 1H
 ## What
 + This project deals with providing mild heating facility to passengers via their seats.
